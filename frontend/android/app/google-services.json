@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138443301310",
+    "project_id": "legalplatformmaster",
+    "storage_bucket": "legalplatformmaster.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138443301310:android:97d18fcebb75fc20c0d9ef",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-AGXe8fB8jYMMfV6Av2vUNFy1tiUAxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

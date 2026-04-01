@@ -1,0 +1,42 @@
+# ========================
+# 🚨 SECURITY & KEYS (NEVER UPLOAD THESE)
+# ========================
+serviceAccountKey.json
+.env
+
+# ========================
+# PYTHON / FASTAPI
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+# ========================
+# FLUTTER / DART
+# ========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# ========================
+# ANDROID / IOS NATIVE
+# ========================
+**/android/local.properties
+**/android/app/src/main/google-services.json
+**/ios/.symlinks/
+**/ios/Pods/
+
+# ========================
+# IDE / SYSTEM FILES
+# ========================
+.idea/
+.vscode/
+*.iml
+.DS_Store

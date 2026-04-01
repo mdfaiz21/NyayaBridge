@@ -1,0 +1,39 @@
+name: frontend
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  http: ^1.6.0
+  image_picker: ^1.2.1
+  cloud_firestore: ^5.6.12
+  intl: ^0.20.2
+  firebase_storage: ^12.4.10
+  audioplayers: ^6.6.0
+  camera: ^0.12.0+1
+  record: ^6.2.0
+  file_picker: ^10.3.10
+  video_player: ^2.11.1
+  url_launcher: ^6.2.5
+  firebase_messaging: ^15.2.10
+  flutter_local_notifications: ^17.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/siren.mp3
