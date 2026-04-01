@@ -36,7 +36,7 @@ app.add_middleware(
 )
 
 # ⚠️ GEMINI AI CONFIGURATION
-GEMINI_API_KEY = "AIzaSyC3xqnd4xMTcDQsdofj2z9dExrTNMg8_M4"
+GEMINI_API_KEY = "Gemini key here"
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 # ==========================================
