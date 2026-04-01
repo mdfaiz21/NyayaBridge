@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCmA-z8VHtsmyBpQSjHI2D6fzul2UyxsxQ',
+    apiKey: 'GEMINI API KEY',
     appId: '1:138443301310:web:2eff93b6c4091d5ec0d9ef',
     messagingSenderId: '138443301310',
     projectId: 'legalplatformmaster',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC0-AGXe8fB8jYMMfV6Av2vUNFy1tiUAxU',
+    apiKey: 'GEMINI API KEY',
     appId: '1:138443301310:android:97d18fcebb75fc20c0d9ef',
     messagingSenderId: '138443301310',
     projectId: 'legalplatformmaster',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDpO6y27HqPiMMFizh1EW6P1KelMC0isDg',
+    apiKey: 'GEMINI API KEY',
     appId: '1:138443301310:ios:2a4661dabe3932f9c0d9ef',
     messagingSenderId: '138443301310',
     projectId: 'legalplatformmaster',
